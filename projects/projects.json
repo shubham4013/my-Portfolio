@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Zerodha Website",
+    "desc": "Fully Zerodha Website app based on different design patterns. Built using Html, CSS, javascript, React.",
+    "image": "ZerodhaWebsite",
+    "category": "Zerodha Website",
+    "links": {
+      "view": "https://www.linkedin.com/in/shubham-kumar-8b270b229/",
+      "code": "https://github.com/shubham4013"
+    }
+  },
+
+  {
+    "name": "My Portfolio Website",
+    "desc": "Fully Portfolio Website app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/in/shubham-kumar-8b270b229/",
+      "code": "https://github.com/shubham4013"
+    }
+  }
+
+
+  
+]
